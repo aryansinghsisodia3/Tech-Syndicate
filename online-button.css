@@ -10,13 +10,13 @@
   background-color: #56e006;
   border: none;
   border-radius: 15px;
-  box-shadow: 0 9px rgb(21, 88, 5);
+  box-shadow: 0 9px rgb(140, 255, 112);
 }
 
 .button:hover {background-color: #6ee772}
 
 .button:active {
   background-color: #6ee772;
-  box-shadow: 0 5px rgb(21, 88, 5);
+  box-shadow: 0 5px rgb(40, 202, 0);
   transform: translateY(4px);
 }
